@@ -1,1 +1,1 @@
-# trio-parada-dura
+# trio-parada-estranha 
